@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"alb_sg","Source":"./modules/Load_Balancer","Dir":"modules/Load_Balancer"},{"Key":"instance","Source":"./modules/Instances","Dir":"modules/Instances"},{"Key":"vpc","Source":"registry.terraform.io/terraform-aws-modules/vpc/aws","Version":"5.19.0","Dir":".terraform/modules/vpc"}]}
