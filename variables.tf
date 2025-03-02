@@ -26,3 +26,8 @@ variable "ssh_public_key" {
   type    = string
   default = "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIKZCaJgoHNkFAvNzU+YL0ueT8iYIJNYXAkhumfgCGf3 hung_ssh"
 }
+
+variable "cluster_name" {
+  type    = string
+  default = "eks-cluster-tuan"
+}
